@@ -10,7 +10,7 @@ if u guys cannot download these pip files then download pack of pip which
 countains all pip required for Python  Coding.
 Once pip(s) are install hope it runs.
 good luck customizing this 
-By by
+By
 Ravanger_101
 
 
